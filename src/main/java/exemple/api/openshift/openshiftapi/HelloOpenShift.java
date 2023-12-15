@@ -8,6 +8,6 @@ public class HelloOpenShift {
 
     @GetMapping("/hello")
     public String hello(){
-        return "Hello OpenShift Version 1";
+        return "Hello OpenShift Version 2";
     }
 }
